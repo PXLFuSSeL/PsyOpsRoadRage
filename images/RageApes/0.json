@@ -1,11 +1,19 @@
 {
-    "description": "",
-    "image": "",
-    "name": "",
+    "description": "400 Ape Drivers. Fighting each other with paranormal capabilities.",
+    "image": "https://raw.githubusercontent.com/PXLFuSSeL/PsyOpsRoadRage/main/images/RageApes/0.png",
+    "name": "Rage Ape #000",
     "attributes": [
         {
-            "trait_type": "",
-            "value": ""
+            "trait_type": "level",
+            "value": 1
+        },
+        {
+            "trait_type": "telekinesis",
+            "value": 1
+        },
+        {
+            "trait_type": "telepathy",
+            "value": 1.5
         }
     ]
 }
