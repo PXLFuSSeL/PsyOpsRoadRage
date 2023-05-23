@@ -1,0 +1,39 @@
+{
+    "description": "400 Ape Drivers. Fighting each other with paranormal capabilities.",
+    "image": "https://raw.githubusercontent.com/PXLFuSSeL/PsyOpsRoadRage/main/images/RageApes/357.png",
+    "name": "Ape Driver #357",
+    "attributes": [
+        {
+            "trait_type": "level",
+            "value": 1
+        },
+        {
+            "trait_type": "intelligence",
+            "value": 1
+        },
+        {
+            "trait_type": "telekinesis",
+            "value": 2
+        },
+        {
+            "trait_type": "telepathy",
+            "value": 2
+        },
+        {
+            "trait_type": "levitation",
+            "value": 0
+        },
+        {
+            "trait_type": "pyrokinesis",
+            "value": 0
+        },
+        {
+            "trait_type": "energy medicine",
+            "value": 0
+        },
+        {
+            "trait_type": "weapon",
+            "value": 0
+        }
+    ]
+}
